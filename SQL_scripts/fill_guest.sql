@@ -1,0 +1,16 @@
+INSERT INTO guest (first_name, last_name, email, phone) VALUES
+    ('John', 'Smith', 'john@example.com', '123-456-7890'),
+    ('Emily', 'Johnson', 'emily@example.com', '456-789-0123'),
+    ('Michael', 'Williams', 'michael@example.com', '789-012-3456'),
+    ('Jessica', 'Brown', 'jessica@example.com', '012-345-6789'),
+    ('Daniel', 'Jones', 'daniel@example.com', '345-678-9012'),
+    ('Sarah', 'Davis', 'sarah@example.com', '678-901-2345'),
+    ('Christopher', 'Miller', 'christopher@example.com', '901-234-5678'),
+    ('Ashley', 'Wilson', 'ashley@example.com', '234-567-8901'),
+    ('Matthew', 'Moore', 'matthew@example.com', '567-890-1234'),
+    ('Amanda', 'Taylor', 'amanda@example.com', '890-123-4567'),
+    ('David', 'Anderson', 'david@example.com', '123-456-7891'),
+    ('Jennifer', 'Martinez', 'jennifer@example.com', '456-789-0124'),
+    ('James', 'Hernandez', 'james@example.com', '789-012-3457'),
+    ('Maria', 'Walker', 'maria@example.com', '012-345-6780'),
+    ('Joshua', 'Young', 'joshua@example.com', '345-678-9013');
